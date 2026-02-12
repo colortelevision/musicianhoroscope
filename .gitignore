@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Allow the main page and horoscope files
+!index.html
+!horoscopes/
+!horoscopes/**
+!.gitignore
